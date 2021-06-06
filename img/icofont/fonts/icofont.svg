@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="ui-message" horiz-adv-x="1000" unicode="&#xec67;" d="M1000 491v-24c0-100 0-201 0-302-1-90-64-157-154-157-230-1-460-1-690 0-92 0-156 66-156 157 0 101 0 202 0 302v25c45-19 86-36 128-54 103-45 205-92 309-135 42-18 88-17 130 2 95 40 189 82 283 123 43 18 86 37 129 56 6 2 12 4 21 7z m-501 201c138 0 277 1 415 0 55 0 86-32 86-86 0-14-5-19-17-24-120-52-239-104-359-156-27-12-54-23-80-35-31-15-62-12-92 1-145 63-291 127-436 191-7 3-15 14-15 22-3 54 29 87 84 87 138 1 276 0 414 0z" />
+</font>
+</defs>
+</svg>
